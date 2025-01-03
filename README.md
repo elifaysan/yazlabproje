@@ -1,9 +1,11 @@
 # Döviz Kurunun Derin Öğrenme Modelleri ile Tahmini
 Bu proje, USD/TRY döviz kuru tahmini için derin öğrenme modellerini kullanmayı amaçlamaktadır. Python kullanılarak gerçekleştirilen bu çalışma, çeşitli modelleri test ederek finansal veri tahmininde en iyi sonucu elde etmeyi hedefler.
 
-#Proje Özeti
+Proje Özeti
 Veri Kaynağı: Tarihsel USD/TRY döviz kurları.
 Kullanılan Teknolojiler: Python, TensorFlow, Keras, Selenium.
+
+
 Modeller:
 LSTM (Long Short-Term Memory)
 GRU (Gated Recurrent Unit)
@@ -13,7 +15,10 @@ Performans Metrikleri:
 Ortalama Mutlak Hata (MAE)
 Kök Ortalama Kare Hatası (RMSE)
 R-Kare (R²)
-#Özellikler
+
+
+
+Özellikler
 Otomatik Veri Toplama: Selenium ile web verisi kazıma.
 Veri Temizleme ve İşleme: Tarih ve fiyat formatlarının düzenlenmesi.
 Model Eğitimi: Farklı model yapılarını kullanarak veri analizi.
