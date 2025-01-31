@@ -1,7 +1,7 @@
 
 # USD/TL Zaman Serisi Analizi  
 
-Bu proje, transformer tabanlı beş farklı modelin (Transformer, Informer, Reformer, Temporal Fusion Transformer (TFT), Autoformer) *Gram Altın/TL fiyat tahmini* üzerindeki performansını değerlendirmek için tasarlanmıştır.  
+Bu proje, transformer tabanlı beş farklı modelin (Transformer, Informer, Reformer, Temporal Fusion Transformer (TFT), Autoformer) *Dolar/TL fiyat tahmini* üzerindeki performansını değerlendirmek için tasarlanmıştır.  
 
 ## İçerik  
 
